@@ -18,7 +18,7 @@ Features:
   <li>View all Transaction History.</li>
   </ul>  
 <img src="images/Customer_Details.jpg" height="450px" width="850px" align="center">
-<img src="images/Transfer_Money.jpg" height="450px" width="850px" align="center">
+<img src="images/Transferr_Money.jpg" height="450px" width="850px" align="center">
 <img src="images/History.jpg" height="450px" width="850px" align="center">
   
   
