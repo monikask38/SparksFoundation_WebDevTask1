@@ -20,6 +20,6 @@
     </li>
     </ul>
    </nav>
-<body>
+</body>
 </html>
 
