@@ -1,0 +1,19 @@
+body {
+    padding-top: 20px;
+    font-size:30px;
+    font-family: 'Baloo Da 2', cursive;
+    background: #f5fce3;
+    border-radius: 10px;
+    background: -webkit-linear-gradient(to right, #f5fce3, #e1e6d6 );
+    background: linear-gradient(to right, #f5fce3,#e1e6d6 );
+}
+.transferMoney{
+color:white;
+background: #91c1c9;
+background: linear-gradient(to bottom, #8ce2f1, #2f02fa);
+padding: 20px;
+position:fixed;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+}

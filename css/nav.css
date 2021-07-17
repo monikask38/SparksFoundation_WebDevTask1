@@ -1,0 +1,37 @@
+body {
+  margin:0;
+}
+.nav{
+    margin-bottom:12px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: linear-gradient(to bottom, #c33075, #583d72);
+
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Baloo Da 2', cursive;
+}
+
+li a:hover{
+  background-color:lavender;
+}
+.title{
+  background-color:lavender;
+}

@@ -1,0 +1,62 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+       padding-top: 60px;
+       font-size:25px;
+       font-family: "Audiowide", sans-serif;
+       padding-bottom: 100px;
+       background: #f5fce3;
+       background: -webkit-linear-gradient(to right, #f5fce3, #e1e6d6 );
+       background: linear-gradient(to right, #f5fce3, #e1e6d6 );
+
+      }
+.container{      
+        padding-top:5px;
+        display: block;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;    
+}
+.container h2{
+    text-align: inherit;
+}
+
+td,th { 
+    border: 1px solid #ddd; 
+    padding: 8px;
+    font-family: "Trirong", serif;
+}
+#Table{     
+    font-family: 'Baloo Da 2', cursive; 
+    border-collapse: collapse; 
+    margin-bottom: 15px;
+}
+#Table tr:nth-child(even){ 
+    background-color: #acd5ff; 
+}
+#Table tr:nth-child(odd){ 
+    background-color: #dee2e3; 
+}
+#Table tr:hover{ 
+    background-color: #043357;
+ }
+#Table th { 
+    padding-top: 12px; 
+    padding-bottom: 12px; 
+    text-align:left; 
+    background-color: #043357; 
+    color:white;
+    font-family: 'Baloo Da 2', cursive;
+}
+footer {
+    background-color:  #043357;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
