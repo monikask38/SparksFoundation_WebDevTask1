@@ -5,8 +5,8 @@ Web development &amp; designing task at The Sparks Foundation as an intern Jul
 Web development &amp; designing task at The Sparks Foundation as an intern #GRIPJULY21
 <b>TripleS Bank Of India</b>
 During: <b>The Sparks Foundation Internship July 2021</b>
-Designed and Developed by: Monika Kamble
-<img src="/sprk.jpg" height="450px" width="850px" align="center">
+Designed and Developed by: <b>Monika Kamble</b>
+<img src="images/sprk.jpg" height="450px" width="850px" align="center">
 
 Objective of the Project:
 To show a Basic Banking System.
