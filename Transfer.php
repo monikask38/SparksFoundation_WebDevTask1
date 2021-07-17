@@ -37,8 +37,17 @@ include 'connect.php';
         hr{
             color: #c54141;
             border: 3px solid #252546;
-}
           }
+        input[type="submit" i]{
+             background-color:#1a3413;
+             font-family: 'Baloo Da 2', cursive;
+             font-weight: 600;
+             color: #ffffff;
+             padding:10px;
+         }
+         input[type="submit" i]:hover{
+             background-color:#3b0840;
+         }
 
     </style>
   
