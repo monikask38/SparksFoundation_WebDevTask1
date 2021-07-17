@@ -4,7 +4,7 @@
 <link rel="stylesheet" type="text/css" href="css/nav.css">
 </head>
 <body>
-   <nav class="Nav">
+   <nav class="nav">
     <ul>
     <li>
     <a href="index.php">Home</a>
