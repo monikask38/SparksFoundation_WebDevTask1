@@ -9,7 +9,7 @@ Designed and Developed by: <b>Monika Kamble</b>
 <img src="images/sprk.jpg" height="450px" width="850px" align="center">
 
 Objective of the Project:
-To show a Basic Banking System.
+<b>To show a Basic Banking System.</b>
 
 Features:
   <ul type="disc">
