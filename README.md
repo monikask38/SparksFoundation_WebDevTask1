@@ -17,6 +17,11 @@ Features:
   <li>View all the Customers Records.</li>
   <li>View all Transaction History.</li>
   </ul>  
+<img src="images/Customer_Details.jpg" height="450px" width="850px" align="center">
+<img src="images/Transfer_Money.jpg" height="450px" width="850px" align="center">
+<img src="images/History.jpg" height="450px" width="850px" align="center">
+  
+  
 
 <h2>Languages and Technologies Used:</h2>
   <ul type="disc">
